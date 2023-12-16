@@ -6,4 +6,4 @@
 | **Проект** | **Тип исследования** |
 | -------------------- | :--------------------- |
 | [01. Определения музыкального жанра](https://github.com/AndreevAlekseyV/DataScience_projects/tree/main/music_genry/notebook306b99cbff.ipynb) | Многоклассовая задача на определения жанра музыкальной композиции. В качестве исходных данных заданы параметры композиций: продолжительность, инструментальнойсть, громкость и другие. |
-| [02. Определение схожего по характеристика товара](https://github.com/AndreevAlekseyV/DataScience_projects/tree/main/Matching_poduct_selection/Product-select%20(Application%20of%20the%20FAISS).ipynb) | Задача мэтчинга на подбор схожего по характеристикам товара с использаванием инструмента faiss. | 
+| [02. Определение схожего по характеристика товара](https://github.com/AndreevAlekseyV/DataScience_projects/blob/main/matching_poduct_selection/product-select_(application_of_FAISS).ipynb) | Задача мэтчинга на подбор схожего по характеристикам товара с использаванием инструмента faiss. | 
